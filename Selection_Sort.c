@@ -10,6 +10,8 @@ printf("\n---Selection Sorting---\n\n\n");
 printf("Enter the Number of Elements = ");
 scanf("%d",&n);
 
+printf("Enter %d element \n",n);
+
 for(i=0;i<n;i++)
 {
 scanf("%d",&arr[i]);
