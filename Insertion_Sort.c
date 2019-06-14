@@ -1,8 +1,11 @@
 
-//Time Complexity: O(n*n)
+//Worst Case Time Complexity: O(n*n)
 
-//Auxiliary Space: O(1)
+//Best Case Time Complexity: O(n)
 
+//Average Case Time Complexity: O(n*n)
+
+//Space Complexity: O(1)
 
 #include<stdio.h>
 
