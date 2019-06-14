@@ -1,3 +1,13 @@
+
+//Worst and Average Case Time Complexity: O(n*n)
+
+//Best Case Time Complexity: O(n)
+
+//Auxiliary Space: O(1)
+
+
+
+
 #include<stdio.h>
 
 void swap(int *first, int *second)
