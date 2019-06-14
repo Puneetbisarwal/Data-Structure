@@ -1,3 +1,10 @@
+//Time Complexity: O(n*n)
+  
+//Auxiliary Space: O(1)
+
+
+
+
 #include<stdio.h>
 
 
